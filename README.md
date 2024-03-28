@@ -35,7 +35,3 @@ This is a website for Techy Software Company, showcasing their services, portfol
 - Modify the content in the HTML files to reflect your company's information.
 - Customize the styles in the CSS file to match your branding and design preferences.
 - Update the JavaScript code as needed to add more functionality or customize existing features.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

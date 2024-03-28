@@ -19,7 +19,7 @@ This is a website for Techy Software Company, showcasing their services, portfol
 
 ## Setup
 
-1. Clone the repository:
+1. Clone the repository: https://github.com/sravyaDongari/techysoftware.git
 
 
 2. Open the `index.html` file in your web browser to view the website.
